@@ -53,13 +53,6 @@ When a capsule is sealed, the distribution will appear here.
 
 ---
 
-## // LICENSE
-
-The engine substrate is licensed under MIT. Proprietary vaults and datasets are All Rights Reserved.  
-See [LICENSE](LICENSE) for full legal terms.
-
----
-
 <p align="center">
   <!-- PLACEHOLDER: ENMEI LOGO FOOTER (assets/enmeilogo.png) -->
   <img src="assets/enmeilogo.png" alt="ENMEI CORP Seal" width="130"><br>
