@@ -56,5 +56,5 @@ When a capsule is sealed, the distribution will appear here.
 <p align="center">
   <!-- PLACEHOLDER: ENMEI LOGO FOOTER (assets/enmeilogo.png) -->
   <img src="assets/enmeilogo.png" alt="ENMEI CORP Seal" width="130"><br>
-  <sub>Preserving signal. Resisting entropy.</sub>
+  <sub>Resisting entropy.</sub>
 </p>
