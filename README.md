@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPEC-DONEWARE-030508?style=flat-square&labelColor=0a101a&color=ef7e40" alt="Specification: Doneware">
+  <img src="https://img.shields.io/badge/SPEC-DONEWARE-030508?style=flat-square&labelColor=0a101a&color=b91d2a" alt="Specification: Doneware">
   <img src="https://img.shields.io/badge/ARCH-BARE_METAL-030508?style=flat-square&labelColor=0a101a&color=e5d160" alt="Architecture: Bare Metal">
   <img src="https://img.shields.io/badge/CORE-RUST%20%7C%20C%2B%2B-030508?style=flat-square&labelColor=0a101a&color=fefefe" alt="Core: Rust | C++">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20RESEARCH-030508?style=flat-square&labelColor=0a101a&color=7bd659" alt="Status">
