@@ -20,15 +20,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-==============================================================================
-PROPRIETARY NOTICE (Knowledge Vaults & Curation Assets)
-==============================================================================
+
+PROPRIETARY NOTICE
 
 All encrypted payload archives (*.bin), proprietary curation tables, 
 heuristic models, and ENMEI brand assets are:
 
 Copyright (c) 2026 ENMEI [CORP]. All Rights Reserved.
-
-Unauthorized extraction, reverse-engineering, redistribution, or commercial 
-reselling of the encrypted vault datasets without express written authorization 
-from ENMEI [CORP] is strictly prohibited.
